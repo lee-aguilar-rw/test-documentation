@@ -1,3 +1,3 @@
 ## HEADING
 
-Welcome to *test-documentation repository.
+Welcome to *test-documentation* repository.
